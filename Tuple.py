@@ -16,7 +16,8 @@ def main():
     
     # Changing the List Item Value
     
-#Tuple are unchangable. So we cant the add, append or changing the items in Tuple. So we can change the tuple into List then we can change the values and then convert into Tuple
+#Tuple are unchangable. So we cant the add, append or changing the items in Tuple. 
+# So we can change the tuple into List then we can change the values and then convert into Tuple
 
     chTuple = (1,2,3,4,5)
     chList = list(chTuple)

@@ -12,6 +12,7 @@ def main():
     
     # Access Set Items
 # You cannot access items in a set by referring to an index or a key
+    print(mySet2)
     for i in mySet:
         print(i)
     
